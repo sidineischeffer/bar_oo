@@ -1,7 +1,0 @@
-C:\temp\projetos\Bar_OO\Bar_OO\bin\Debug\Bar_OO.exe.config
-C:\temp\projetos\Bar_OO\Bar_OO\bin\Debug\Bar_OO.exe
-C:\temp\projetos\Bar_OO\Bar_OO\bin\Debug\Bar_OO.pdb
-C:\temp\projetos\Bar_OO\Bar_OO\obj\Debug\Bar_OO.csproj.AssemblyReference.cache
-C:\temp\projetos\Bar_OO\Bar_OO\obj\Debug\Bar_OO.csproj.CoreCompileInputs.cache
-C:\temp\projetos\Bar_OO\Bar_OO\obj\Debug\Bar_OO.exe
-C:\temp\projetos\Bar_OO\Bar_OO\obj\Debug\Bar_OO.pdb
